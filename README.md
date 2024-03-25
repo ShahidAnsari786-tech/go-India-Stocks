@@ -36,11 +36,11 @@ The website blends social interaction with curated market stories, creating a vi
 
 # :: Responsiveness { Mobile View-1 , Mobile View-2 , Mobile View-3} ::
 # See Below :
-<div style="display: flex;">
-  <img src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-1.jpg?raw=true" alt="Mobile View-1" style="width: 33.33%;" />
-  <img src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-2.jpg?raw=true" alt="Mobile View-2" style="width: 33.33%;" />
-  <img src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-3.jpg?raw=true" alt="Mobile View-3" style="width: 33.33%;" />
-</div>
+<p>
+ <img width="300" hspace="10" src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-1.jpg?raw=true" alt="Mobile View-1" />
+ <img width="300" hspace="10" src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-2.jpg?raw=true" alt="Mobile View-2" />
+ <img width="300" hspace="10" src="https://github.com/ShahidAnsari786-tech/go-india-stocks/blob/main/public/repositories/mobile%20view-3.jpg?raw=true" alt="Mobile View-3" />
+</p>
 
 
 ### Install requirements
